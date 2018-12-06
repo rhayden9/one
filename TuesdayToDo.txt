@@ -1,0 +1,11 @@
+- wake up			done
+- make bed			done
+- brush teeth (morning)		done
+- take a shower			done
+- eat breakfast			done
+- go to class			done
+- do homework			done
+- program			done
+- eat dinner			done
+- brush teeth (night)		done
+- go to bed			done
